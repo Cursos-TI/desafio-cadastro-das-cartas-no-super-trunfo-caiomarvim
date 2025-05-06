@@ -35,7 +35,7 @@ int main()
    printf("\n");
 
    printf("Insira a primeira letra do estado: \n");
-   scanf ("%c", &estado2);
+   scanf (" %c", &estado2);
    printf ("Insira o nome da cidade: \n");
    scanf ("%s", cidade2);
    printf ("Insira o código - letra do estado + número de 01 a 04: \n");
